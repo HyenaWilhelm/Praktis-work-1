@@ -1,0 +1,15 @@
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Простой калькулятор\Простой калькулятор\bin\Release\net6.0\Простой калькулятор.exe
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Простой калькулятор\Простой калькулятор\bin\Release\net6.0\Простой калькулятор.deps.json
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Простой калькулятор\Простой калькулятор\bin\Release\net6.0\Простой калькулятор.runtimeconfig.json
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Простой калькулятор\Простой калькулятор\bin\Release\net6.0\Простой калькулятор.dll
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Простой калькулятор\Простой калькулятор\bin\Release\net6.0\Простой калькулятор.pdb
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Простой калькулятор\Простой калькулятор\obj\Release\net6.0\Простой калькулятор.csproj.AssemblyReference.cache
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Простой калькулятор\Простой калькулятор\obj\Release\net6.0\Простой калькулятор.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Простой калькулятор\Простой калькулятор\obj\Release\net6.0\Простой калькулятор.AssemblyInfoInputs.cache
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Простой калькулятор\Простой калькулятор\obj\Release\net6.0\Простой калькулятор.AssemblyInfo.cs
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Простой калькулятор\Простой калькулятор\obj\Release\net6.0\Простой калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Простой калькулятор\Простой калькулятор\obj\Release\net6.0\Простой калькулятор.dll
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Простой калькулятор\Простой калькулятор\obj\Release\net6.0\refint\Простой калькулятор.dll
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Простой калькулятор\Простой калькулятор\obj\Release\net6.0\Простой калькулятор.pdb
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Простой калькулятор\Простой калькулятор\obj\Release\net6.0\Простой калькулятор.genruntimeconfig.cache
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Простой калькулятор\Простой калькулятор\obj\Release\net6.0\ref\Простой калькулятор.dll
