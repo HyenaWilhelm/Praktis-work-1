@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matve\\OneDrive\\Документы\\Си шарп\\Технарь\\Простой калькулятор\\Простой калькулятор\\Простой калькулятор.csproj": {}
+    "C:\\Users\\matve\\OneDrive\\Документы\\Си шарп\\Технарь\\Практосы\\Для пересдачи\\Простой калькулятор\\Простой калькулятор\\Простой калькулятор.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matve\\OneDrive\\Документы\\Си шарп\\Технарь\\Простой калькулятор\\Простой калькулятор\\Простой калькулятор.csproj": {
+    "C:\\Users\\matve\\OneDrive\\Документы\\Си шарп\\Технарь\\Практосы\\Для пересдачи\\Простой калькулятор\\Простой калькулятор\\Простой калькулятор.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matve\\OneDrive\\Документы\\Си шарп\\Технарь\\Простой калькулятор\\Простой калькулятор\\Простой калькулятор.csproj",
+        "projectUniqueName": "C:\\Users\\matve\\OneDrive\\Документы\\Си шарп\\Технарь\\Практосы\\Для пересдачи\\Простой калькулятор\\Простой калькулятор\\Простой калькулятор.csproj",
         "projectName": "Простой калькулятор",
-        "projectPath": "C:\\Users\\matve\\OneDrive\\Документы\\Си шарп\\Технарь\\Простой калькулятор\\Простой калькулятор\\Простой калькулятор.csproj",
+        "projectPath": "C:\\Users\\matve\\OneDrive\\Документы\\Си шарп\\Технарь\\Практосы\\Для пересдачи\\Простой калькулятор\\Простой калькулятор\\Простой калькулятор.csproj",
         "packagesPath": "C:\\Users\\matve\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matve\\OneDrive\\Документы\\Си шарп\\Технарь\\Простой калькулятор\\Простой калькулятор\\obj\\",
+        "outputPath": "C:\\Users\\matve\\OneDrive\\Документы\\Си шарп\\Технарь\\Практосы\\Для пересдачи\\Простой калькулятор\\Простой калькулятор\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\matve\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
